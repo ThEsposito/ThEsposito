@@ -2,9 +2,9 @@
 
 Olá! Meu nome é **Theo Espósito** e sou estudante do **2º semestre de Ciência da Computação** na **UPM** (Universidade Presbiteriana Mackenzie). Desde criança, sempre fui fascinado por tecnologia — daqueles que fuçava o computador antigo da família tentando resolver tudo com vídeos no YouTube. 🧠💻
 
-Hoje, estou explorando o mundo do desenvolvimento de software, com uma inclinação natural para o **back-end**, onde já dei meus primeiros passos programando em **C** e **Python**. Ainda estou me descobrindo na área, mas tenho muita vontade de aprender e crescer profissionalmente.
+Hoje, estou explorando o mundo do desenvolvimento de software, com uma inclinação para o **back-end**, onde já dei meus primeiros passos programando em **C** e **Python**. Ainda estou me descobrindo na área, mas tenho muita vontade de aprender e crescer profissionalmente.
 
-Fora da tecnologia, sou apaixonado por **filmes**, **video-games** e, claro, **café** ☕ — meu combustível oficial para estudar e codar!
+Fora da tecnologia, sou apaixonado por **filmes**, **video-games** e, claro, **café** ☕ — meu combustível oficial para estudar e programar!
 
 
 ## 💻 Tecnologias e Linguagens
@@ -22,9 +22,9 @@ Fora da tecnologia, sou apaixonado por **filmes**, **video-games** e, claro, **c
 - Projeto em andamento com **compressão de imagens BMP**
 
 ### 📊 Análise de Dados
-Noções básicas em:
+Noções em:
   - Análise exploratória e probabilidade
-  - Inferência estatística e amostragem
+  - Inferência estatística, amostragem e testes de hipótese
   - Regressão linear, Curvas Normais, Gráficos
   - Projetos com Python e R
 
@@ -52,6 +52,7 @@ Noções básicas em:
 ## 📂 Projetos
 
 - 🎬 **Cinemack**: Simulação de sistema de cinema feito em Python com foco em lógica de programação
+- 📸 Sistema de compactação de imagens BMP
 - 📈 Notebooks de análise de dados com Python e R (pandas, matplotlib, regressão e mais)
 - 🔩 Simulação de ULA de 8 bits (lógica digital)
 
